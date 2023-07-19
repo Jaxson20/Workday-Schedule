@@ -1,6 +1,6 @@
 # Workday-Schedule
 
-This is a 9-5 workday scheduling website. this website is effective because you can type whatever you want into the schedule and it will save. there is a different color screen for past, present, and future times in the hourly schedule/
+This is a 9-5 workday scheduling website. This website is effective because you can type whatever you want into the schedule and it will save. there is a different color screen for past, present, and future times in the hourly schedule.
 
 Installation - Open Google and put the URL for the website in it.
 
