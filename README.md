@@ -8,9 +8,9 @@ Usage - To use this website effectively,  when you load onto the website you wil
 
 Visual Studio Code - https://1drv.ms/i/s!AjsvYdlJ0aVdhQ-9lY4SoPogQwqD?e=f0hvOF
 
-Website -
+Website - https://jaxson20.github.io/Workday-Schedule/
 
-picture of the live site - 
+picture of the live site - https://1drv.ms/i/s!AjsvYdlJ0aVdhRBQZPYlxOzuMr84?e=nfl0Am
 
 Credits KU Bootcamp, Module 5, Google,
 
