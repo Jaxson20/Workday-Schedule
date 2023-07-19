@@ -6,7 +6,7 @@ Installation - Open Google and put the URL for the website in it.
 
 Usage - To use this website effectively,  when you load onto the website you will see the normal 9-5 scheduling calendar. Click on the hour box that you want to save something, type it in, then click the save box to the right. 
 
-Visual Studio Code - 
+Visual Studio Code - https://1drv.ms/i/s!AjsvYdlJ0aVdhQ-9lY4SoPogQwqD?e=f0hvOF
 
 Website -
 
